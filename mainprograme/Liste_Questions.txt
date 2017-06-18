@@ -1,0 +1,9 @@
+Quels sont le nom et le cheflieu du département,numéro,nom,cheflieu
+Quels sont le cheflieu et le numéro du département,nom,cheflieu,numéro
+Quels sont le nom et le numéro du département dont le cheflieu est,cheflieu,nom,numéro
+Quel est le nom du département,numéro,nom
+Quel est le cheflieu du département,numéro,cheflieu
+Quel est le numéro du département,nom,numéro
+Quel est le cheflieu du département,nom,cheflieu
+Quel est le numéro du département dont le cheflieu est,cheflieu,numéro
+Quel est le nom du département dont le cheflieu est,cheflieu,nom
